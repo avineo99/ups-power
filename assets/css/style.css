@@ -233,6 +233,7 @@ h3, .h3{
       transform: rotate(-180deg) scale(1, 1);
 }
 
+
 .welcome-wrap{
     background: linear-gradient(180deg,rgba(0, 161, 171, 1) 0%,rgba(7, 61, 73, 1) 100%);
 }
